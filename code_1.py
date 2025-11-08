@@ -5,4 +5,6 @@ a=a+b
 print(a)
 print(b)
 print(a*)
-a+
+a=a+1
+c+
+
