@@ -6,10 +6,6 @@ print(a)
 print(b)
 print(a*)
 a=a+1
-c+
-b-
-a+
-a=a++c-*+d
-c=a++++
+
 
 
